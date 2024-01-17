@@ -1,0 +1,32 @@
+{
+  "name": "solana-token-with-multisig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://terryyyz-coin98@github.com/terryyyz-coin98/solana-token-with-multisig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terryyyz-coin98/solana-token-with-multisig/issues"
+  },
+  "homepage": "https://github.com/terryyyz-coin98/solana-token-with-multisig#readme",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.11",
+    "@solana/web3.js": "^1.89.1",
+    "bn.js": "^5.2.1",
+    "mz": "^2.7.0",
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5",
+    "@types/mz": "^2.7.8",
+    "@types/yaml": "^1.9.7"
+  }
+}
